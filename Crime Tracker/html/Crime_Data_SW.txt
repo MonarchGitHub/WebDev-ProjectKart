@@ -1,0 +1,6 @@
+"id","State","Crimes"
+"1","Andhra Pradesh","12.7"
+"2","Arunachal Pradesh","27.2"
+"3","Assam","73.7"
+"4","Bihar","41.9"
+"5",Chhattisgarh","27.5"
